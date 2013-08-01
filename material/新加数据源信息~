@@ -1,0 +1,61 @@
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1642> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://data.linkedct.org/resource/intervention/1455> .
+
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Acetic_Acid> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://purl.org/net/tcm/tcm.lifescience.ntu.edu.tw/id/ingredient/acetic_acid> .
+
+
+<http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/3464> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www4.wiwiss.fu-berlin.de/sider/resource/drugs/119607> .
+
+
+        <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2592> <http://www.w3.org/2004/02/skos/core#exactMatch> <http://www.dbpedia.org/resource/Amlodipine> .
+
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/141> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/clinicalPharmacology> "Fluphenazine hydrochloride has activity at all levels of the central nervous system, as well as on multiple organ systems.  The mechanism whereby its therapeutic action is exerted is unknown." .
+
+
+
+        <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2526> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/activeIngredient> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Gabapentin> .
+
+     <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4051> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/activeMoiety> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/Heparin> .
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/218> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/inactiveIngredient> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/ingredient/dextrose> .
+
+
+
+
+   <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/1795> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/contraindication> "VALPROIC ACID SHOULD NOT BE ADMINISTERED TO PATIENTS WITH HEPATIC DISEASE OR SIGNIFICANT HEPATIC DYSFUNCTION. Valproic acid is contraindicated in patients with known hypersensitivity to the drug. Valproic acid is contraindicated in patients with known urea cycle disorders ." .
+
+
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/60> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/supply> """Magnesium Sulfate in 5% Dextrose Injection, USP is supplied
+in single-dose flexible plastic containers as follows: *As the heptahydrate. WARNING:
+DO NOT USE FLEXIBLE CONTAINER IN SERIES CONNECTIONS. Store
+at 20 to 25��C (68 to 77��F). [See USP Controlled Room Temperature.]
+Protect from freezing. Revised: July, 2006 ��Hospira
+2006    EN-1247 Printed in USA HOSPIRA,
+INC., LAKE FOREST, IL 60045 USA""" .
+
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/organization/Morton_Grove_Pharmaceuticals,_Inc.> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/producesDrug> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/289> .
+
+
+
+   <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/166> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/genericDrug> <http://www4.wiwiss.fu-berlin.de/drugbank/resource/drugs/DB00829> .
+
+        <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/844> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/genericMedicine> "theophylline" .
+
+
+
+       <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4284> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/boxedWarning> "WARNING: PHYSICIANS SHOULD COMPLETELY FAMILIARIZE THEMSELVES WITH THE COMPLETE CONTENTS OF THIS LEAFLET BEFORE PRESCRIBING HYDROXYCHLOROQUINE." .
+
+
+
+        <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/108> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/possibleDiseaseTarget> <http://www4.wiwiss.fu-berlin.de/diseasome/resource/diseases/851> .
+
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/11> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/precaution> '...'
+
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/2056> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/adverseReaction> """
+
+ <http://www4.wiwiss.fu-berlin.de/dailymed/resource/drugs/4> <http://www4.wiwiss.fu-berlin.de/dailymed/resource/dailymed/indication> 
