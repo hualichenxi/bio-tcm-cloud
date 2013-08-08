@@ -1,0 +1,69 @@
+http://www.w3.org/2004/02/skos/core#altLabel	Property	a
+http://www.w3.org/2004/02/skos/core#exactMatch	SymmetricProperty	a
+http://www.w3.org/2004/02/skos/core#exactMatch	TransitiveProperty	a
+http://linkedlifedata.com/resource/chebi/id/CHEBI:24431	Concept	a
+http://www.w3.org/2004/02/skos/core	Ontology	a
+http://www.w3.org/2004/02/skos/core#Concept	Class	a
+http://www.w3.org/2004/02/skos/core#narrower	ObjectProperty	a
+http://www.w3.org/2004/02/skos/core#notation	DatatypeProperty	a
+http://linkedlifedata.com/resource/chebi	ConceptScheme	a
+http://www.w3.org/2004/02/skos/core#altLabel	AnnotationProperty	a
+http://www.w3.org/2004/02/skos/core#memberList	FunctionalProperty	a
+http://www.w3.org/2004/02/skos/core#narrowMatch	narrower	
+http://www.w3.org/2004/02/skos/core#broadMatch	broader	
+http://www.w3.org/2004/02/skos/core#altLabel	label	
+http://www.w3.org/2004/02/skos/core#topConceptOf	inScheme	
+http://www.w3.org/2004/02/skos/core#definition	note	
+http://www.w3.org/2004/02/skos/core#broaderTransitive	semanticRelation	
+http://www.w3.org/2004/02/skos/core#broader	broaderTransitive	
+http://www.w3.org/2004/02/skos/core#narrower	narrowerTransitive	
+http://www.w3.org/2004/02/skos/core#relatedMatch	related	
+http://www.w3.org/2004/02/skos/core#broadMatch	mappingRelation	
+http://www.w3.org/2004/02/skos/core#exactMatch	closeMatch	
+http://www.w3.org/2004/02/skos/core#OrderedCollection	Collection	
+http://www.w3.org/2004/02/skos/core#topConceptOf	Concept	
+http://www.w3.org/2004/02/skos/core#hasTopConcept	ConceptScheme	
+http://www.w3.org/2004/02/skos/core#member	Collection	
+http://www.w3.org/2004/02/skos/core#memberList	OrderedCollection	
+http://www.w3.org/2004/02/skos/core#hasTopConcept	Concept	
+http://www.w3.org/2004/02/skos/core#memberList	List	
+http://www.w3.org/2004/02/skos/core#inScheme	ConceptScheme	
+http://www.w3.org/2004/02/skos/core#member	range	_:node15tagf839x1
+http://linkedlifedata.com/resource/chebi/id/CHEBI:53325	altLabel	"Nitrocellulose"
+http://www.w3.org/2004/02/skos/core#prefLabel	comment	"Aresourcehasnomorethanonevalueofskos:prefLabelperlanguagetag.","Therangeofskos:prefLabelistheclassofRDFplainliterals.","""skos:prefLabel,skos:altLabelandskos:hiddenLabelarepairwise
+disjointproperties."""		
+http://www.w3.org/2004/02/skos/core#altLabel	comment	"Therangeofskos:altLabelistheclassofRDFplainliterals.","skos:prefLabel,skos:altLabelandskos:hiddenLabelarepairwisedisjointproperties."
+skos:memberListpropertyisalsoavalueoftheskos:memberproperty."""		
+http://www.w3.org/2004/02/skos/core#mappingRelation	comment	"Theseconceptmappingrelationsmirrorsemanticrelations,andthedatamodeldefinedbelowissimilar(withtheexceptionofskos:exactMatch)tothedatamodeldefinedforsemanticrelations.Adistinctvocabularyisprovidedforconceptmappingrelations,toprovideaconvenientwaytodifferentiatelinkswithinaconceptschemefromlinksbetweenconceptschemes.However,thispatternofusageisnotaformalrequirementoftheSKOSdatamodel,andreliesoninformaldefinitionsofbestpractice."
+http://linkedlifedata.com/resource/chebi/id/CHEBI:16709	prefLabel	"pyridoxine"
+http://linkedlifedata.com/resource/chebi/id/CHEBI:23367	broader	http://linkedlifedata.com/resource/chebi/id/CHEBI:24431
+http://www.w3.org/2004/02/skos/core#Collection	label	"Collection"
+http://linkedlifedata.com/resource/chebi		"chebi"
+http://www.w3.org/2004/02/skos/core	http://www.w3.org/TR/skos-reference/	
+_:node15tagf839x2	Concept	
+_:node15tagf839x3	Collection	;
+http://www.w3.org/1999/02/22-rdf-syntax-ns#rest	nil	
+_:node15tagf839x2	rest	_:node15tagf839x3
+http://www.w3.org/2004/02/skos/core#altLabel	http://www.w3.org/2004/02/skos/core	
+http://www.w3.org/2004/02/skos/core		"AlistairMiles","SeanBechhofer"
+http://www.w3.org/2004/02/skos/core#broader	narrower	
+http://www.w3.org/2004/02/skos/core#narrower	broader	
+http://www.w3.org/2004/02/skos/core#topConceptOf	hasTopConcept	
+http://www.w3.org/2004/02/skos/core#hasTopConcept	topConceptOf	
+http://www.w3.org/2004/02/skos/core#narrowerTransitive	broaderTransitive	
+http://www.w3.org/2004/02/skos/core#broaderTransitive	narrowerTransitive	
+http://www.w3.org/2004/02/skos/core#narrowMatch	broadMatch	
+http://www.w3.org/2004/02/skos/core#broadMatch	narrowMatch	
+http://www.w3.org/2004/02/skos/core#ConceptScheme	Concept	
+http://www.w3.org/2004/02/skos/core#Collection	ConceptScheme	,
+_:node15tagf839x1	unionOf	_:node15tagf839x2
+http://www.w3.org/2004/02/skos/core		"SKOSVocabulary";
+http://www.w3.org/2004/02/skos/core#Concept	definition	"Anideaornotion;aunitofthought."
+http://www.w3.org/2004/02/skos/core#ConceptScheme	scopeNote	"Aconceptschememaybedefinedtoincludeconceptsfromdifferentsources."
+http://www.w3.org/2004/02/skos/core#ConceptScheme	example	"Thesauri,classificationschemes,subjectheadinglists,taxonomies,'folksonomies',andothertypesofcontrolledvocabularyareallexamplesofconceptschemes.Conceptschemesarealsoembeddedinglossariesandterminologies."
+http://linkedlifedata.com/resource/chebi/id/CHEBI:24431	inScheme	http://linkedlifedata.com/resource/chebi
+http://linkedlifedata.com/resource/chebi/id/CHEBI:30151	notation	"NISTChemistryWebBook:22325-47-9\"CASRegistryNumber\""
+http://linkedlifedata.com/resource/chebi/id/CHEBI:27189	historyNote	"obsolete"
+http://linkedlifedata.com/resource/chebi		"Structuredclassificationofchemicalcompoundsofbiologicalrelevance";
+http://linkedlifedata.com/resource/chebi/id/CHEBI:465284	relatedSynonym	"GA2"
+}		
